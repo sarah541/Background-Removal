@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Background Removal</string>
+    <string name="camera_and_external_storage_rationale">This app needs access to your camera and storage so you can take pictures and save them.</string>
+</resources>
